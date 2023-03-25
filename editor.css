@@ -1,0 +1,32 @@
+body{
+    background-color: #FFE5B4;
+}
+.html{
+    margin-top:30px;
+    padding-left:50px;
+    
+}
+.css{
+    margin-top:30px;
+    padding-left: 50px;
+}
+.js{
+    margin-top:30px;
+    padding-left: 50px;
+}
+#result{
+    float:right;
+    margin-top:-750px;
+   margin-right: 50px;
+   background-color: white;
+}
+#run{
+    margin-top:20px;
+    height:50px;
+    width:100px;
+    border:1px solid black;
+    border-radius: 20px;
+    color:black;
+    font-size: larger;
+    background-color: coral;
+}
